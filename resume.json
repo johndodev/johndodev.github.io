@@ -1,0 +1,207 @@
+{
+    "basics": {
+        "name": "Jonathan Plantey",
+        "label": "Senior PHP / Symfony Developer",
+        "email": "jonathan.plantey@gmail.com",
+        "url": "https://www.jonathan-plantey.fr",
+        "location": {
+            "city": "Amiens",
+            "countryCode": "FR"
+        },
+        "profiles": [
+            {
+                "network": "GitHub",
+                "username": "johndodev",
+                "url": "https://github.com/johndodev"
+            },
+            {
+                "network": "Twitter",
+                "username": "@johndodev",
+                "url": "https://x.com/johndodev"
+            }
+        ],
+        "summary": "Web developer with professional experience since 2011. Specialized in PHP, Symfony, and code optimization, with strong attention to best practices, readability, and long-term maintainability of web projects.",
+        "image": "https://jonathan-plantey.fr/images/jonathan-plantey.jpg?v=3"
+    },
+    "work": [
+        {
+            "name": "Freelance",
+            "position": "Web Developer",
+            "startDate": "2022-09",
+            "summary": "Development of personal projects and web development missions."
+        },
+        {
+            "name": "Wild Code School",
+            "position": "PHP / Symfony Instructor",
+            "startDate": "2021-11",
+            "endDate": "2022-08",
+            "summary": "Training adults transitioning into careers as PHP / Symfony developers.",
+            "url": "https://www.wildcodeschool.com/",
+            "location": "Bordeaux, FR"
+        },
+        {
+            "name": "E-monsite",
+            "position": "Lead PHP Developer",
+            "startDate": "2019-09",
+            "endDate": "2021-10",
+            "summary": "Migration of the platform to Symfony and technical mentoring of developers.",
+            "location": "Amiens, FR",
+            "url": "https://www.e-monsite.com/"
+        },
+        {
+            "name": "Wizaplace",
+            "position": "Web Developer",
+            "startDate": "2019-02",
+            "endDate": "2019-09",
+            "summary": "Maintenance of a marketplace creation platform.",
+            "location": "Lyon, FR",
+            "url": "https://www.wizaplace.com"
+        },
+        {
+            "name": "Wild Code School",
+            "position": "Web Development Instructor",
+            "startDate": "2018-02",
+            "endDate": "2018-08",
+            "summary": "Full PHP / Symfony training session: 5-month intensive program with 14 students, primarily adults transitioning to new careers.",
+            "url": "https://www.wildcodeschool.com/",
+            "location": "Lyon, FR"
+        },
+        {
+            "name": "Awelty - Luminjo",
+            "position": "Web Developer",
+            "startDate": "2016-06",
+            "endDate": "2017-08",
+            "summary": "Design and development of the Luminjo website using Silex. Working solo on the project, I established a clean development foundation based on Silex 2.0, leveraging Symfony components and best practices.",
+            "location": "Amiens, FR",
+            "url": "https://fr.luminjo.com/"
+        },
+        {
+            "name": "Geolid",
+            "position": "Web Developer",
+            "startDate": "2015-03",
+            "endDate": "2016-06",
+            "summary": "Maintenance and refactoring of a legacy PHP ERP into Symfony2, including migration and modernization of development tools (SVN to Git, procedural legacy PHP to OOP, automated tests, etc.).",
+            "location": "Lyon, FR",
+            "url": "https://geolid.com/"
+        },
+        {
+            "name": "Mapado",
+            "position": "Web Developer",
+            "startDate": "2014-07",
+            "endDate": "2015-03",
+            "summary": "New startup founded by the creators of Clubic, where I primarily contributed to the development of the website using Symfony2 within an Agile environment.",
+            "location": "Lyon, FR",
+            "url": "https://mapado.com/"
+        },
+        {
+            "name": "Awelty - E-monsite",
+            "position": "Web Developer",
+            "startDate": "2010-11",
+            "endDate": "2014-03",
+            "summary": "Development of the e-monsite.com online CMS and the internal framework (PHP 5.4 & MySQL). High-traffic platform involving database sharding, Memcache, lazy loading, and performance optimizations.",
+            "location": "Amiens, FR",
+            "url": "https://www.e-monsite.com/"
+        }
+    ],
+    "education": [
+        {
+            "studyType": "Professional Bachelor's Degree",
+            "area": "Web Development",
+            "startDate": "2009",
+            "endDate": "2010"
+        },
+        {
+            "studyType": "Higher National Diploma (BTS)",
+            "area": "Digital Systems",
+            "startDate": "2005",
+            "endDate": "2007"
+        }
+    ],
+    "skills": [
+        {
+            "name": "PHP",
+            "keywords": [
+                "Object-oriented PHP",
+                "PSR/PER standards",
+                "Dependency Injection",
+                "Interfaces and abstraction",
+                "Dependency Injection",
+                "Symfony Framerwork"
+            ]
+        },
+        {
+            "name": "Frontend",
+            "keywords": [
+                "HTML5",
+                "CSS",
+                "Bootstrap",
+                "Twig",
+                "Responsive Integration",
+                "ES-6",
+                "Stimulus"
+            ]
+        },
+        {
+            "name": "Database",
+            "keywords": [
+                "MySQL",
+                "Optimization",
+                "Indexing"
+            ]
+        },
+        {
+            "name": "DevOps / Tools",
+            "keywords": [
+                "PhpStorm",
+                "GIT",
+                "Composer",
+                "LAMP",
+                "ServerLess"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "French",
+            "fluency": "Native"
+        },
+        {
+            "language": "English",
+            "fluency": "Technical reading"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Jmonitor",
+            "url": "https://jmonitor.io",
+            "description": "PHP and Symfony monitoring saas"
+        },
+        {
+            "name": "Trouve un trésor",
+            "url": "https://www.trouve-un-tresor.com",
+            "description": "Treasure hunt publishing and sales website."
+        }
+    ],
+    "interests": [
+        {
+            "name": "Geek culture",
+            "keywords": [
+                "Twitch",
+                "Hearthstone"
+            ]
+        },
+        {
+            "name": "Entrepreneurship",
+            "keywords": [
+                "jmonitor.io"
+            ]
+        },
+        {
+            "name": "Healthy lifestyle",
+            "keywords": [
+                "nutrition",
+                "sport"
+            ]
+        }
+    ]
+}
