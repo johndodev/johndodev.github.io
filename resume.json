@@ -174,12 +174,15 @@
         {
             "name": "Jmonitor",
             "url": "https://jmonitor.io",
-            "description": "PHP and Symfony monitoring saas"
+            "description": "PHP and Symfony monitoring saas",
+            "startDate": "2025-01-01"
         },
         {
             "name": "Trouve un trésor",
             "url": "https://www.trouve-un-tresor.com",
-            "description": "Treasure hunt publishing and sales website."
+            "description": "Treasure hunt publishing and sales website.",
+            "startDate": "2022-08-01",
+            "endDate": "2022-12-31"
         }
     ],
     "interests": [
