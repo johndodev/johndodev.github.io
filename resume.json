@@ -174,8 +174,14 @@
         {
             "name": "Jmonitor",
             "url": "https://jmonitor.io",
-            "description": "PHP and Symfony monitoring saas",
+            "description": "PHP and Symfony monitoring saas.",
             "startDate": "2025-01-01"
+        },
+        {
+            "name": "Tab Wheel Scroll",
+            "url": "https://chromewebstore.google.com/detail/tab-wheel-scroll/aknfcgiicpmnfhncpljcadokcghjblal",
+            "description": "Chrome extension to switch browser tabs using the mouse wheel.",
+            "startDate": "2016-03-07"
         },
         {
             "name": "Trouve un trésor",
